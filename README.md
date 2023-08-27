@@ -1,2 +1,2 @@
 # javascript-game
-![bg](https://github.com/rida029/javascript-game/assets/114281431/cbdc3f2e-ba1b-4735-a24a-8fe2bc3986da)
+![bg](https://github.com/rida029/javascript-game/assets/114281431/9adefeff-04ea-4a71-a55a-fe2f7f44ee40)
