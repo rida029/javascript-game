@@ -1,2 +1,3 @@
 # javascript-game
-![Uploading image.png…]()
+
+![Uploading view.png…]()
